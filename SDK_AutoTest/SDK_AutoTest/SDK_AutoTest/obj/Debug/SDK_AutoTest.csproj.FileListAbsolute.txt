@@ -1,0 +1,36 @@
+C:\Documents and Settings\Administrator\桌面\SE5901A_SDK_Test_Tool\SDK_AutoTest\SDK_AutoTest\bin\Debug\SDK_AutoTest.exe
+C:\Documents and Settings\Administrator\桌面\SE5901A_SDK_Test_Tool\SDK_AutoTest\SDK_AutoTest\bin\Debug\SDK_AutoTest.pdb
+C:\Documents and Settings\Administrator\桌面\SE5901A_SDK_Test_Tool\SDK_AutoTest\SDK_AutoTest\bin\Debug\Interop.Microsoft.Office.Core.dll
+C:\Documents and Settings\Administrator\桌面\SE5901A_SDK_Test_Tool\SDK_AutoTest\SDK_AutoTest\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\SE5901A_SDK_Test_Tool\SDK_AutoTest\SDK_AutoTest\obj\Debug\Interop.Microsoft.Office.Core.dll
+C:\Documents and Settings\Administrator\桌面\SE5901A_SDK_Test_Tool\SDK_AutoTest\SDK_AutoTest\obj\Debug\SDK_AutoTest.csproj.ResolveComReference.cache
+C:\Documents and Settings\Administrator\桌面\SE5901A_SDK_Test_Tool\SDK_AutoTest\SDK_AutoTest\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Documents and Settings\Administrator\桌面\SE5901A_SDK_Test_Tool\SDK_AutoTest\SDK_AutoTest\obj\Debug\SE190X.InputBox.resources
+C:\Documents and Settings\Administrator\桌面\SE5901A_SDK_Test_Tool\SDK_AutoTest\SDK_AutoTest\obj\Debug\SDK_AutoTest.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\SE5901A_SDK_Test_Tool\SDK_AutoTest\SDK_AutoTest\obj\Debug\SDK_AutoTest.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\桌面\SE5901A_SDK_Test_Tool\SDK_AutoTest\SDK_AutoTest\obj\Debug\SDK_AutoTest.exe
+C:\Documents and Settings\Administrator\桌面\SE5901A_SDK_Test_Tool\SDK_AutoTest\SDK_AutoTest\obj\Debug\SDK_AutoTest.pdb
+D:\公司產品\ATC\產測程式\C#改寫\SE5901A_SDK_Test_Tool\SDK_AutoTest\SDK_AutoTest\obj\Debug\Interop.Microsoft.Office.Core.dll
+D:\公司產品\ATC\產測程式\C#改寫\SE5901A_SDK_Test_Tool\SDK_AutoTest\SDK_AutoTest\obj\Debug\SDK_AutoTest.csproj.ResolveComReference.cache
+D:\公司產品\ATC\產測程式\C#改寫\SE5901A_SDK_Test_Tool\SDK_AutoTest\SDK_AutoTest\obj\Debug\SDK_AutoTest.exe
+D:\公司產品\ATC\產測程式\C#改寫\SE5901A_SDK_Test_Tool\SDK_AutoTest\SDK_AutoTest\obj\Debug\SDK_AutoTest.pdb
+D:\公司產品\ATC\產測程式\C#改寫\SE5901A_SDK_Test_Tool\SDK_AutoTest\SDK_AutoTest\bin\Debug\SDK_AutoTest.exe
+D:\公司產品\ATC\產測程式\C#改寫\SE5901A_SDK_Test_Tool\SDK_AutoTest\SDK_AutoTest\bin\Debug\SDK_AutoTest.pdb
+D:\公司產品\ATC\產測程式\C#改寫\SE5901A_SDK_Test_Tool\SDK_AutoTest\SDK_AutoTest\bin\Debug\Interop.Microsoft.Office.Core.dll
+D:\公司產品\ATC\產測程式\C#改寫\SE5901A_SDK_Test_Tool\SDK_AutoTest\SDK_AutoTest\obj\Debug\ResolveAssemblyReference.cache
+D:\公司產品\ATC\產測程式\C#改寫\SE5901A_SDK_Test_Tool\SDK_AutoTest\SDK_AutoTest\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\公司產品\ATC\產測程式\C#改寫\SE5901A_SDK_Test_Tool\SDK_AutoTest\SDK_AutoTest\obj\Debug\SE190X.InputBox.resources
+D:\公司產品\ATC\產測程式\C#改寫\SE5901A_SDK_Test_Tool\SDK_AutoTest\SDK_AutoTest\obj\Debug\SDK_AutoTest.Properties.Resources.resources
+D:\公司產品\ATC\產測程式\C#改寫\SE5901A_SDK_Test_Tool\SDK_AutoTest\SDK_AutoTest\obj\Debug\SDK_AutoTest.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\桌面\SDK_AutoTest\SDK_AutoTest\SDK_AutoTest\bin\Debug\SDK_AutoTest.exe
+C:\Documents and Settings\Administrator\桌面\SDK_AutoTest\SDK_AutoTest\SDK_AutoTest\bin\Debug\SDK_AutoTest.pdb
+C:\Documents and Settings\Administrator\桌面\SDK_AutoTest\SDK_AutoTest\SDK_AutoTest\bin\Debug\Interop.Microsoft.Office.Core.dll
+C:\Documents and Settings\Administrator\桌面\SDK_AutoTest\SDK_AutoTest\SDK_AutoTest\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\SDK_AutoTest\SDK_AutoTest\SDK_AutoTest\obj\Debug\Interop.Microsoft.Office.Core.dll
+C:\Documents and Settings\Administrator\桌面\SDK_AutoTest\SDK_AutoTest\SDK_AutoTest\obj\Debug\SDK_AutoTest.csproj.ResolveComReference.cache
+C:\Documents and Settings\Administrator\桌面\SDK_AutoTest\SDK_AutoTest\SDK_AutoTest\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Documents and Settings\Administrator\桌面\SDK_AutoTest\SDK_AutoTest\SDK_AutoTest\obj\Debug\SE190X.InputBox.resources
+C:\Documents and Settings\Administrator\桌面\SDK_AutoTest\SDK_AutoTest\SDK_AutoTest\obj\Debug\SDK_AutoTest.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\SDK_AutoTest\SDK_AutoTest\SDK_AutoTest\obj\Debug\SDK_AutoTest.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\桌面\SDK_AutoTest\SDK_AutoTest\SDK_AutoTest\obj\Debug\SDK_AutoTest.exe
+C:\Documents and Settings\Administrator\桌面\SDK_AutoTest\SDK_AutoTest\SDK_AutoTest\obj\Debug\SDK_AutoTest.pdb

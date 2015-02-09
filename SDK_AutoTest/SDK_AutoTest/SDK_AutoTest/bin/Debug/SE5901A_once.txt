@@ -1,0 +1,19 @@
+SE5901A 10.0.153.100 admin
+Stop when fail
+Console-DUT show
+//Telnet
+Loadtools
+//3G test check the RunLED
+APinfor SDK-Autotest_1.0/SE5901A-IO-3G-21_V1.23
+PowerDetect
+USB 4
+USB 8
+USB 16
+USB 32
+USB 64
+USB 128
+USB 256
+USB 512
+//Watchdog
+restart login 30
+//Delete

@@ -1,0 +1,12 @@
+#!/bin/sh
+
+echo "exec rc.wifi"
+
+### cat /tmp/bridge | while read line
+### do
+###     if [ $line == 1 ]; then
+###         /usr/local/bin/wpa_supplicant -B -bbr0 -Dathr -iath0 -c/jffs2/wireless/cpe.conf
+###     else
+### 		/usr/local/bin/wpa_supplicant -B -Dathr -iath0 -c/jffs2/wireless/cpe.conf
+###     fi
+### done

@@ -1,0 +1,21 @@
+SE5901A 10.0.153.100 admin
+//Stop when fail
+Console-DUT show
+Telnet
+//sleep 30 s
+Flash
+Loadtools
+Buzzer
+COM 2 rs232
+COMtoCOM 0-2 10.0.153.100 rs232 115200 10 s
+DOtoDI
+RTC
+NTP
+EEPROM
+CPU
+Network lan 10.0.153.1
+Network wifi 192.168.2.233
+Memory
+Watchdog kill
+//Delete
+//Restart login 50

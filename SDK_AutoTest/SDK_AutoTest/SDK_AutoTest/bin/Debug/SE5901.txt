@@ -1,0 +1,26 @@
+SE5901-TB 10.0.50.100 admin
+//Stop when fail
+Console-DUT show
+Telnet
+Flash
+Loadtools
+//sleep 30 s
+eeprom
+//Buzzer
+com 1 rs232
+rtc
+cpu
+network lan 10.0.153.1
+//network lan 192.168.1.233
+memory
+//usb 4
+//usb 8
+//usb 16
+//usb 32
+//usb 64
+//usb 128
+//usb 256
+//usb 512
+//watchdog kill
+//Restart login 45
+//Delete

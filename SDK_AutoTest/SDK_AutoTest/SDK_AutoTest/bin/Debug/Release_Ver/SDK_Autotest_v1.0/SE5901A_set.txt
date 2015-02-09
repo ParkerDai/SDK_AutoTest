@@ -1,0 +1,15 @@
+SE5901A 10.0.153.100 admin
+//Stop when fail
+Console-DUT show
+//Loadtools
+Lan 1 10.0.153.100 255.255.0.0 10.0.0.254 168.95.1.1 8.8.8.8 up
+Usbwifi SMC 0 0
+Usbwifi SMC 1 1 1 h,9999999999 h,8888888888 h,7777777777 h,6666666666
+Usbwifi SMC 2 2 1 55555555
+Usbwifi SMC 2 3 1 55555555
+Usbwifi SMC 3 2 1 55555555
+Usbwifi SMC 3 3 1 55555555
+Wifi 0 168.95.1.1 8.8.8.8 up
+Wifi 1 192.168.2.100 255.255.255.0 192.168.2.254 168.95.1.1 8.8.8.8 up
+3G 1 0000 1 1 1
+Loadtools

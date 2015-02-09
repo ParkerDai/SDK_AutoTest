@@ -1,0 +1,24 @@
+#!/bin/sh
+
+echo "exec original rc.init"
+
+killall wpa_supplicant 2>/dev/null
+ifconfig eth0 down 2>/dev/null
+killall udhcpc 2>/dev/null
+route del -net 0.0.0.0 dev eth0 2>/dev/null
+
+###/jffs2/wireless/rc.wifi
+
+cat /dev/null > /etc/resolv.conf
+echo 0 > /proc/sys/net/ipv4/ip_forward
+
+# network settings
+ifconfig eth0 10.0.50.200 netmask 255.255.0.0 up
+route add default gw 10.0.50.254 dev eth0
+
+mem.l 0x4a100d08 s 0x10
+                                  
+killall atop_gwd 2>/dev/null                     
+atop_gwd &                                       
+                                 
+### wlan_monitor &
